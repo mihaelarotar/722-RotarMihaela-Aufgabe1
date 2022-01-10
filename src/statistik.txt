@@ -1,0 +1,3 @@
+Thurgau: 38000.0
+St_Gallen: 65000.0
+Zürich: 115700.0
