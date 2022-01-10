@@ -1,0 +1,4 @@
+3&Signvision GmBh&77350.0&19.0&Herdernstrasse 2&St_Gallen
+4&lasermed GmBh&70758.9&7.7&Eglistrasse 19&Zürich
+2&Mediconsult AG&53850.0&7.7&Regenwiesenstrasse 1&Zürich
+1&Art Of Fire GmBh&40926.0&7.7&Eichenstrasse 15&Thurgau
